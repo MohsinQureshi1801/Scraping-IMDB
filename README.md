@@ -1,4 +1,4 @@
 # Scraping-IMDB
 Scraping IMDB fan favourite movies using Selenium library
 
-![Uploading IMDB-fan_fav.png…]()
+![IMDB-fan_fav](https://github.com/MohsinQureshi1801/Scraping-IMDB/assets/73529392/8daaa845-d8a2-4328-9f01-88334b836ecd)
